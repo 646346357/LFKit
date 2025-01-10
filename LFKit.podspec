@@ -146,7 +146,7 @@ Pod::Spec.new do |s|
 
     ss.subspec 'LFErrorView' do |sss|
     sss.source_files         = 'LFKit/LFKit/Component/LFErrorView/*'
-    sss.resources = 'LFKit/LFKit/Component/LFErrorView/*.{png}'
+    sss.resources = 'LFKit/LFKit/Component/LFErrorView/Images/*.{png}'
     end
 
     ss.subspec 'LFPickerView' do |sss|
@@ -217,7 +217,7 @@ Pod::Spec.new do |s|
 
     ss.subspec 'LFPicturesCollectionView' do |sss|
     sss.source_files         = 'LFKit/LFKit/Component/LFPicturesCollectionView/*'
-    sss.resources = 'LFKit/LFKit/Component/LFPicturesCollectionView/*.{png}'
+    sss.resources = 'LFKit/LFKit/Component/LFPicturesCollectionView/Images/*.{png}'
     sss.dependency 'LFKit/Component/LFPhotoBrowser'
     sss.dependency 'LFKit/Category/UIViewController+LF'
     sss.dependency 'Masonry'

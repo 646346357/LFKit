@@ -167,7 +167,7 @@
         {
           "name": "LFErrorView",
           "source_files": "LFKit/LFKit/Component/LFErrorView/*",
-          "resources": "LFKit/LFKit/Component/LFErrorView/*.{png}"
+          "resources": "LFKit/LFKit/Component/LFErrorView/Images/*.{png}"
         },
         {
           "name": "LFPickerView",
@@ -256,7 +256,7 @@
         {
           "name": "LFPicturesCollectionView",
           "source_files": "LFKit/LFKit/Component/LFPicturesCollectionView/*",
-          "resources": "LFKit/LFKit/Component/LFPicturesCollectionView/*.{png}",
+          "resources": "LFKit/LFKit/Component/LFPicturesCollectionView/Images/*.{png}",
           "dependencies": {
             "LFKit/Component/LFPhotoBrowser": [
 
