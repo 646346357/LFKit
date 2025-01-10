@@ -1,0 +1,162 @@
+PODS:
+  - CocoaLumberjack (3.4.2):
+    - CocoaLumberjack/Default (= 3.4.2)
+    - CocoaLumberjack/Extensions (= 3.4.2)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Extensions (3.4.2):
+    - CocoaLumberjack/Default
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LFKit (1.3.1):
+    - LFKit/Category (= 1.3.1)
+    - LFKit/Component (= 1.3.1)
+    - LFKit/Util (= 1.3.1)
+  - LFKit/Category (1.3.1):
+    - "LFKit/Category/NSDate+LF (= 1.3.1)"
+    - "LFKit/Category/NSLayoutConstraint+LFXIB (= 1.3.1)"
+    - "LFKit/Category/NSString+LF (= 1.3.1)"
+    - "LFKit/Category/NSTimer+LF (= 1.3.1)"
+    - LFKit/Category/SafeValue (= 1.3.1)
+    - "LFKit/Category/UIBarButtonItem+LF (= 1.3.1)"
+    - "LFKit/Category/UIButton+LF (= 1.3.1)"
+    - "LFKit/Category/UIColor+LF (= 1.3.1)"
+    - "LFKit/Category/UIImage+LF (= 1.3.1)"
+    - "LFKit/Category/UIImageView+LF (= 1.3.1)"
+    - "LFKit/Category/UILabel+LF (= 1.3.1)"
+    - "LFKit/Category/UITabBarController+HideTabBar (= 1.3.1)"
+    - "LFKit/Category/UITextField+LF (= 1.3.1)"
+    - "LFKit/Category/UITextView+LF (= 1.3.1)"
+    - "LFKit/Category/UIView+LF (= 1.3.1)"
+    - "LFKit/Category/UIView+LFXIB (= 1.3.1)"
+    - "LFKit/Category/UIViewController+FullScreenScroll (= 1.3.1)"
+    - "LFKit/Category/UIViewController+LF (= 1.3.1)"
+  - "LFKit/Category/NSDate+LF (1.3.1)"
+  - "LFKit/Category/NSLayoutConstraint+LFXIB (1.3.1)"
+  - "LFKit/Category/NSString+LF (1.3.1)"
+  - "LFKit/Category/NSTimer+LF (1.3.1)"
+  - LFKit/Category/SafeValue (1.3.1)
+  - "LFKit/Category/UIBarButtonItem+LF (1.3.1)":
+    - "LFKit/Category/UIButton+LF"
+  - "LFKit/Category/UIButton+LF (1.3.1)"
+  - "LFKit/Category/UIColor+LF (1.3.1)"
+  - "LFKit/Category/UIImage+LF (1.3.1)"
+  - "LFKit/Category/UIImageView+LF (1.3.1)"
+  - "LFKit/Category/UILabel+LF (1.3.1)"
+  - "LFKit/Category/UITabBarController+HideTabBar (1.3.1)"
+  - "LFKit/Category/UITextField+LF (1.3.1)"
+  - "LFKit/Category/UITextView+LF (1.3.1)"
+  - "LFKit/Category/UIView+LF (1.3.1)"
+  - "LFKit/Category/UIView+LFXIB (1.3.1)"
+  - "LFKit/Category/UIViewController+FullScreenScroll (1.3.1)":
+    - "LFKit/Category/UITabBarController+HideTabBar"
+  - "LFKit/Category/UIViewController+LF (1.3.1)"
+  - LFKit/Component (1.3.1):
+    - LFKit/Component/LFAlignCollectionViewFlowLayout (= 1.3.1)
+    - LFKit/Component/LFAnnulusProgress (= 1.3.1)
+    - LFKit/Component/LFBadge (= 1.3.1)
+    - LFKit/Component/LFBaseCardView (= 1.3.1)
+    - LFKit/Component/LFBubbleView (= 1.3.1)
+    - LFKit/Component/LFCamera (= 1.3.1)
+    - LFKit/Component/LFCycleScrollView (= 1.3.1)
+    - LFKit/Component/LFErrorView (= 1.3.1)
+    - LFKit/Component/LFFMDB (= 1.3.1)
+    - LFKit/Component/LFImagePicker (= 1.3.1)
+    - LFKit/Component/LFLocalMusicPicker (= 1.3.1)
+    - LFKit/Component/LFLogManager (= 1.3.1)
+    - LFKit/Component/LFOptionTableView (= 1.3.1)
+    - LFKit/Component/LFPhotoBrowser (= 1.3.1)
+    - LFKit/Component/LFPickerView (= 1.3.1)
+    - LFKit/Component/LFPicturesCollectionView (= 1.3.1)
+    - LFKit/Component/LFPopupMenu (= 1.3.1)
+    - LFKit/Component/LFQRCode (= 1.3.1)
+    - LFKit/Component/LFSegment (= 1.3.1)
+    - LFKit/Component/LFStarsView (= 1.3.1)
+    - LFKit/Component/RotationMenu (= 1.3.1)
+  - LFKit/Component/LFAlignCollectionViewFlowLayout (1.3.1)
+  - LFKit/Component/LFAnnulusProgress (1.3.1)
+  - LFKit/Component/LFBadge (1.3.1)
+  - LFKit/Component/LFBaseCardView (1.3.1):
+    - Masonry
+  - LFKit/Component/LFBubbleView (1.3.1)
+  - LFKit/Component/LFCamera (1.3.1)
+  - LFKit/Component/LFCycleScrollView (1.3.1):
+    - YYWebImage
+  - LFKit/Component/LFErrorView (1.3.1)
+  - LFKit/Component/LFFMDB (1.3.1):
+    - FMDB
+  - LFKit/Component/LFImagePicker (1.3.1):
+    - LFKit/Component/LFPhotoBrowser
+  - LFKit/Component/LFLocalMusicPicker (1.3.1)
+  - LFKit/Component/LFLogManager (1.3.1):
+    - CocoaLumberjack (~> 3.4.2)
+  - LFKit/Component/LFOptionTableView (1.3.1)
+  - LFKit/Component/LFPhotoBrowser (1.3.1):
+    - MBProgressHUD
+    - YYWebImage
+  - LFKit/Component/LFPickerView (1.3.1)
+  - LFKit/Component/LFPicturesCollectionView (1.3.1):
+    - "LFKit/Category/UIViewController+LF"
+    - LFKit/Component/LFPhotoBrowser
+    - Masonry
+  - LFKit/Component/LFPopupMenu (1.3.1)
+  - LFKit/Component/LFQRCode (1.3.1)
+  - LFKit/Component/LFSegment (1.3.1)
+  - LFKit/Component/LFStarsView (1.3.1)
+  - LFKit/Component/RotationMenu (1.3.1)
+  - LFKit/Util (1.3.1):
+    - LFKit/Util/LFDeviceInfo (= 1.3.1)
+    - LFKit/Util/LFEncryptDecryptUtil (= 1.3.1)
+    - LFKit/Util/LFFileUtil (= 1.3.1)
+    - LFKit/Util/LFJsonUtil (= 1.3.1)
+    - LFKit/Util/LFTimeUtil (= 1.3.1)
+  - LFKit/Util/LFDeviceInfo (1.3.1)
+  - LFKit/Util/LFEncryptDecryptUtil (1.3.1)
+  - LFKit/Util/LFFileUtil (1.3.1)
+  - LFKit/Util/LFJsonUtil (1.3.1)
+  - LFKit/Util/LFTimeUtil (1.3.1)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - FMDB
+  - LFKit (from `./`)
+  - Masonry
+  - MBProgressHUD
+  - YYWebImage
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - FMDB
+    - Masonry
+    - MBProgressHUD
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+EXTERNAL SOURCES:
+  LFKit:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LFKit: 552b9d8f040d38b10fe528906ac8125a9e27298e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 5eac5bf43ceb43869b847ed6eedd775d866c08d5
+
+COCOAPODS: 1.14.3
